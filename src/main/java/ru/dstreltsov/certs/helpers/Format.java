@@ -1,4 +1,4 @@
-package ru.dstreltsov.certs;
+package ru.dstreltsov.certs.helpers;
 
 public enum Format {
     console,
